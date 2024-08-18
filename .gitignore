@@ -1,0 +1,6 @@
+*.pdf
+.env
+aiproject
+venv
+.venv
+*.pyc
